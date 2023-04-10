@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/capstone-3-cuaresma%20%20/static/css/main.b1fa2a04.css",
-    "main.js": "/capstone-3-cuaresma%20%20/static/js/main.9ea5ce19.js",
-    "static/media/coffee2.jpg": "/capstone-3-cuaresma%20%20/static/media/coffee2.ddea12a41aab0d6aa226.jpg",
-    "static/media/coffee.jpg": "/capstone-3-cuaresma%20%20/static/media/coffee.a201fa8327f85ca9a5e8.jpg",
-    "static/media/baracco.gif": "/capstone-3-cuaresma%20%20/static/media/baracco.aecec586e03a9ec3c524.gif",
-    "static/media/coffee3.jpg": "/capstone-3-cuaresma%20%20/static/media/coffee3.28e1e3a9ab533f93bed0.jpg",
-    "static/media/bootstrap-icons.woff?": "/capstone-3-cuaresma%20%20/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
-    "static/media/bootstrap-icons.woff2?": "/capstone-3-cuaresma%20%20/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
-    "static/media/MrBaracco.png": "/capstone-3-cuaresma%20%20/static/media/MrBaracco.0b38369864aad536d25b.png",
-    "static/media/Logo.png": "/capstone-3-cuaresma%20%20/static/media/Logo.4e0bfe85c917c2a427bf.png",
-    "index.html": "/capstone-3-cuaresma%20%20/index.html",
-    "main.b1fa2a04.css.map": "/capstone-3-cuaresma%20%20/static/css/main.b1fa2a04.css.map",
-    "main.9ea5ce19.js.map": "/capstone-3-cuaresma%20%20/static/js/main.9ea5ce19.js.map"
+    "main.css": "/capstone-3-cuaresma/static/css/main.1573e018.css",
+    "main.js": "/capstone-3-cuaresma/static/js/main.42ecb32d.js",
+    "static/media/coffee2.jpg": "/capstone-3-cuaresma/static/media/coffee2.ddea12a41aab0d6aa226.jpg",
+    "static/media/coffee.jpg": "/capstone-3-cuaresma/static/media/coffee.a201fa8327f85ca9a5e8.jpg",
+    "static/media/baracco.gif": "/capstone-3-cuaresma/static/media/baracco.aecec586e03a9ec3c524.gif",
+    "static/media/coffee3.jpg": "/capstone-3-cuaresma/static/media/coffee3.28e1e3a9ab533f93bed0.jpg",
+    "static/media/bootstrap-icons.woff?": "/capstone-3-cuaresma/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/capstone-3-cuaresma/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/MrBaracco.png": "/capstone-3-cuaresma/static/media/MrBaracco.0b38369864aad536d25b.png",
+    "static/media/Logo.png": "/capstone-3-cuaresma/static/media/Logo.4e0bfe85c917c2a427bf.png",
+    "index.html": "/capstone-3-cuaresma/index.html",
+    "main.1573e018.css.map": "/capstone-3-cuaresma/static/css/main.1573e018.css.map",
+    "main.42ecb32d.js.map": "/capstone-3-cuaresma/static/js/main.42ecb32d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1fa2a04.css",
-    "static/js/main.9ea5ce19.js"
+    "static/css/main.1573e018.css",
+    "static/js/main.42ecb32d.js"
   ]
 }
