@@ -1,0 +1,103 @@
+@import url("//db.onlinewebfonts.com/c/cc1fd3ac8497388cfc4da587e06951b0?family=SQ+Market+Regular");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+@import url("https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap");
+/* font-family: 'Seaweed Script', cursive; */
+
+:root {
+  --kape-30: rgba(114, 65, 0, 0.3);
+  --kape-100: rgba(114, 65, 0, 100%);
+  --blanca-50: rgba(114, 65, 0, 0.5);
+  --balnca-10: rgba(114, 65, 0, 0.1);
+  --blanca: rgb(206, 192, 172);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lato", sans-serif;
+  background: rgb(247, 246, 246) !important;
+}
+.g-script {
+  font-family: "Seaweed Script", cursive;
+}
+.b-font {
+  font-size: 6rem;
+  font-weight: bold;
+}
+.g-font {
+  font-family: "Lato", sans-serif !important;
+  font-weight: 700 !important;
+  font-size: 1.25rem !important;
+  color: var(--kape-100) !important;
+}
+.g-font-lg {
+  font-family: "Lato", sans-serif !important;
+  font-weight: 700 !important;
+  font-size: 3rem !important;
+  color: var(--kape-100) !important;
+}
+.ol-0,
+.ol-0:focus {
+  outline: none !important;
+}
+.bg-trans,
+.bg-trans {
+  background: transparent !important;
+}
+.br,
+.br:focus {
+  border: transparent !important;
+  border-radius: none !important;
+}
+.bs,
+.bs:focus {
+  box-shadow: none !important;
+}
+.search-bar {
+  display: flex;
+  gap: 5px;
+  border: 1px solid var(--kape-30) !important;
+  border-radius: 45px;
+  padding: 5px 10px;
+}
+
+.border-bottom,
+.border-bottom:focus {
+  padding-bottom: 5px !important;
+}
+.c-kape {
+  color: var(--kape-100) !important;
+}
+.c-blanca {
+  color: var(--blanca-50) !important;
+}
+.bg-kape {
+  background: var(--kape-30) !important;
+}
+.bg-blanca {
+  background: var(--balnca-10) !important;
+}
+.br-kape {
+  border: 1px solid var(--kape-30) !important;
+}
+.br-round {
+  border-radius: 10px;
+}
+.r-after::after {
+  display: none !important;
+}
+.nav-link {
+  color: var(--kape-100) !important;
+}
+.nav-link.active {
+  color: var(--blanca-50) !important;
+}
+.modal-content {
+  background-color: var(--blanca) !important;
+}
+.c-dark {
+  color: black !important;
+}
