@@ -62,6 +62,7 @@ function App() {
         <Container>
           <Routes>
             <Route
+              exact
               path="/"
               element={isDesktop ? <DeskHome /> : <PhoneHome />}
             ></Route>
